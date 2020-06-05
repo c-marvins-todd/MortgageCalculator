@@ -1,0 +1,31 @@
+Mortgage Calculator Program
+
+Purpose: Make a mortgage calcuator that calculates monthly payments and any monthly surplus that
+goes towards the principal
+
+Variables:
+
+mortgageAmount
+interestRate
+paymentAmount
+surplusAmount
+principleAmount
+principlePercent
+loanYear
+principlePaid
+interestAmount
+interestPaid
+interestLeft
+paidTotal
+
+
+Requirements:
+-needs to read from a notepad doc to find variables
+-needs to be able to change variables(people refinance, people pay mortgages)
+-needs to show a summary of the mortgage
+-interestAmount needs to change everytime there is a payment to the principle
+-meant as a single user program, no usernames/passwords, just calculating for one user per program
+-year 0-9: principlePercent=22%, 10-19: principlePercent=37%, 20-29:principlePercent:61%
+-choosing Python because Python can break down this simple program in a way that is easier to write and not as grammar heavy
+
+
